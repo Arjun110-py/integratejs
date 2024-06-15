@@ -1,0 +1,19 @@
+{
+  "name": "integratejs",
+  "version": "1.0.0",
+  "description": "A React-like web framework based around integrating variables into your HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjun110-py/integratejs.git"
+  },
+  "author": "Arjun110-py",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjun110-py/integratejs/issues"
+  },
+  "homepage": "https://github.com/Arjun110-py/integratejs#readme"
+}
